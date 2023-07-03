@@ -1,0 +1,11 @@
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\bin\Debug\sudoku.exe
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\bin\Debug\sudoku.pdb
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.MainForm.resources
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.exe
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.pdb
+C:\Users\miadn\Source\Repos\sudoku-miad1\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
